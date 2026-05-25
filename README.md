@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/avery-bracey/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am an upcoming Software Engineering graduate with a minor in IT, focused on breaking into cybersecurity and IT.
+I am a Software Engineering graduate with a minor in IT, focused on breaking into cybersecurity and IT.
 
 ## Objective
 
