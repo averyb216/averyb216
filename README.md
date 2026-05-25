@@ -61,7 +61,7 @@ Seeking an entry-level IT position to build hands-on experience and grow into a 
 
 ## Projects
 - <a href="https://github.com/averyb216/pi-hole">Pi-hole Home Lab</a>
-- <a href-"https://github.com/Ldavis279/ScrappyFin">ScrappyFin
+- <a href="https://github.com/Ldavis279/ScrappyFin">ScrappyFin</a>
 <!--
 **averyb216/averyb216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
